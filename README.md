@@ -1,1 +1,1 @@
-KUBC Homework 1
+Repository for my KU Coding Bootcamp Homework Projects.
